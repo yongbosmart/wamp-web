@@ -1,5 +1,5 @@
 # wamp-web
-###把wamp下的www文件夹和数据库提出来了
+### Web课设，把wamp下的www文件夹和数据库提出来。
 - 功能没有实现完，最后实现了私信、发博文、评论、发说说。
 - 使用富文本编辑器wangEditor
 - 界面模仿了网易LOFTER的界面（用bootstrap写的）
